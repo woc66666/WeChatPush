@@ -1,24 +1,24 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx503c506002d35ce0"
+app_id = "wx3360aa02d121361f"
 # 公众号appSecret
-app_secret = "b5e13e79dd534e15e5de2e10b567fd5c"
+app_secret = "77e3b28c5e37e88c368251181f5e36e8"
 # 模板消息id
 # 每日消息
-template_id1 = "OBxlMwEYgivoysmtDdjxsSxQEealzgzfyPVMphZhvSE"
+template_id1 = "F5V5GIlF5LKtSvt76-ib_S5U26kxehn0EOIsiXO_DSI"
 # 课程消息,上课提醒
-template_id2 = "DfmUpooeY9cbRrq571_h-5KJUuLFB5Sn3kfv5RT9_Xk"
+template_id2 = "yVHaB4PeHYb3kQGSkyeDNoxFwSNFepvNu16Ulf5jyXk"
 # 晚安心语
-template_id3 = "7E3K-8MKL9xn1X7EWO5cquzbaA8nHy5ac6XKwMtBqoE"
+template_id3 = "d8XqlGRHHpjHs7NHX653J8fu39sOxtj5eu3errw6Vyw"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["o_yvo5jIP1NW3sseaecrU9GAGJCo"]
 
 # 信息配置
 # 所在省份
-province = "广东"
+province = "河南"
 # 所在城市
-city = "广州"
+city = "新乡"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如2000-1-1，---------倒计时
 birthday = "2003-11-11"
 # 放假日期，格式同上------------计时器
